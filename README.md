@@ -4,7 +4,7 @@
 
 1. Deployed Swagger documentation - http://40.88.8.34/Swagger/index.html
 2. API URL - http://40.88.8.34/Contacts 
-*Note - deployed application is only on http as of now. security can be added later
+**Note - deployed application is only on http as of now. security can be added later
 
 API Project name  - ContactsAPI
 Technology - ASP.Net Core API
