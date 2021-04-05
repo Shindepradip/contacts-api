@@ -4,7 +4,7 @@
 
 1. Deployed Swagger documentation - http://40.88.8.34/Swagger/index.html
 2. API URL - http://40.88.8.34/Contacts 
-**Note - deployed application is only on http as of now. security can be added later
+**Note - deployed application is only on http as of now. security can be added later**
 
 API Project name  - ContactsAPI
 Technology - ASP.Net Core API
@@ -23,7 +23,7 @@ Technology - ASP.Net Core API
  1. Database used - RavenDB
  2. API is loosly coupled from the database as database provider and context can be changed easily without affecting the API
 
-Unit test project is added for the API howevere all test cases are not covered.
+**Unit test project is added for the API however all test cases are not covered.**
 
 **Design Patterns/Packages Used**
 
