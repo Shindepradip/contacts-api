@@ -25,7 +25,7 @@ Technology - ASP.Net Core API
 
 Unit test project is added for the API howevere all test cases are not covered.
 
-**Design Patterns/Packages Used - **
+**Design Patterns/Packages Used**
 
 1. Dependancy Injection
 2. Retry pattern for resiliency
