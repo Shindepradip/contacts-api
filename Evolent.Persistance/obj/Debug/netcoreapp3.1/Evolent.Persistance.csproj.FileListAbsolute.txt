@@ -1,0 +1,44 @@
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.deps.json
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfoInputs.cache
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfo.cs
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csprojAssemblyReference.cache
+C:\POC\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\POC\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\POC\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.deps.json
+C:\POC\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\POC\ContactsAPI\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\POC\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csprojAssemblyReference.cache
+C:\POC\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfoInputs.cache
+C:\POC\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfo.cs
+C:\POC\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csproj.CoreCompileInputs.cache
+C:\POC\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\POC\ContactsAPI\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\POC Projects\contacts-api\Contacts.Persistance\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\POC Projects\contacts-api\Contacts.Persistance\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\POC Projects\contacts-api\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.deps.json
+C:\POC Projects\contacts-api\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\POC Projects\contacts-api\Contacts.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\POC Projects\contacts-api\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csprojAssemblyReference.cache
+C:\POC Projects\contacts-api\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfoInputs.cache
+C:\POC Projects\contacts-api\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfo.cs
+C:\POC Projects\contacts-api\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csproj.CoreCompileInputs.cache
+C:\POC Projects\contacts-api\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\POC Projects\contacts-api\Contacts.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\POC Projects\contacts-api\Evolent.Persistance\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\POC Projects\contacts-api\Evolent.Persistance\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\POC Projects\contacts-api\Evolent.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.deps.json
+C:\POC Projects\contacts-api\Evolent.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\POC Projects\contacts-api\Evolent.Persistance\bin\Debug\netcoreapp3.1\Evolent.Persistance.pdb
+C:\POC Projects\contacts-api\Evolent.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csprojAssemblyReference.cache
+C:\POC Projects\contacts-api\Evolent.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfoInputs.cache
+C:\POC Projects\contacts-api\Evolent.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.AssemblyInfo.cs
+C:\POC Projects\contacts-api\Evolent.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.csproj.CoreCompileInputs.cache
+C:\POC Projects\contacts-api\Evolent.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.dll
+C:\POC Projects\contacts-api\Evolent.Persistance\obj\Debug\netcoreapp3.1\Evolent.Persistance.pdb

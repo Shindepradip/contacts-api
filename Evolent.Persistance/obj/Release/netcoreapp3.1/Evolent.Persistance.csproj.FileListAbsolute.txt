@@ -1,0 +1,11 @@
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Release\netcoreapp3.1\Evolent.Persistance.deps.json
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Release\netcoreapp3.1\Evolent.Persistance.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\bin\Release\netcoreapp3.1\Evolent.Persistance.pdb
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Release\netcoreapp3.1\Evolent.Persistance.csprojAssemblyReference.cache
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Release\netcoreapp3.1\Evolent.Persistance.AssemblyInfoInputs.cache
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Release\netcoreapp3.1\Evolent.Persistance.AssemblyInfo.cs
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Release\netcoreapp3.1\Evolent.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Release\netcoreapp3.1\Evolent.Persistance.dll
+C:\Users\pradishi\source\repos\ContactsAPI\Contacts.Persistance\obj\Release\netcoreapp3.1\Evolent.Persistance.pdb
