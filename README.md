@@ -32,3 +32,5 @@ Unit test project is added for the API howevere all test cases are not covered.
 3. SWagger
 4. Automapper
 5. Application Insights - solution can be extended as of now just added package. custom logging can be done using Application Insights
+6. Added CORS global policies
+7. NUnit with moq
