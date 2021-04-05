@@ -19,13 +19,14 @@ Technology - ASP.Net Core API
  5. LoggedInUser - Required 
  6. Status -Required
  
-Seperate generic persistance layer is added(Evolent.Persistance)
+**Seperate generic persistance layer is added(Evolent.Persistance)**
 Database used - RavenDB
 API is loosly coupled from the database as database provider and context can be changed easily without affecting the API
 
 Unit test project is added for the API howevere all test cases are not covered.
 
-Design Patterns/Packages Used - 
+**Design Patterns/Packages Used - **
+
 1. Dependancy Injection
 2. Retry pattern for resiliency
 3. SWagger
