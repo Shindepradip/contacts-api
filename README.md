@@ -9,15 +9,15 @@
 API Project name  - ContactsAPI
 Technology - ASP.Net Core API
 
-ContactModel
+**ContactModel**
 
- ID 
- FirstName - Required 
- LastName - Required
- Email  - Required(With proper email address format)
- PhoneNumber -Required
- LoggedInUser - Required 
- Status -Required
+ 1. ID 
+ 2. FirstName - Required 
+ 3. LastName - Required
+ 4. Email  - Required(With proper email address format)
+ 5. PhoneNumber -Required
+ 5. LoggedInUser - Required 
+ 6. Status -Required
  
 Seperate generic persistance layer is added(Evolent.Persistance)
 Database used - RavenDB
