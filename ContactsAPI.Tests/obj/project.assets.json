@@ -8521,8 +8521,8 @@
     },
     "Evolent.Persistance/1.0.0": {
       "type": "project",
-      "path": "../Contacts.Persistance/Evolent.Persistance.csproj",
-      "msbuildProject": "../Contacts.Persistance/Evolent.Persistance.csproj"
+      "path": "../Evolent.Persistance/Evolent.Persistance.csproj",
+      "msbuildProject": "../Evolent.Persistance/Evolent.Persistance.csproj"
     }
   },
   "projectFileDependencyGroups": {

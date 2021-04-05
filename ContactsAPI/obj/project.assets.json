@@ -8215,8 +8215,8 @@
     },
     "Evolent.Persistance/1.0.0": {
       "type": "project",
-      "path": "../Contacts.Persistance/Evolent.Persistance.csproj",
-      "msbuildProject": "../Contacts.Persistance/Evolent.Persistance.csproj"
+      "path": "../Evolent.Persistance/Evolent.Persistance.csproj",
+      "msbuildProject": "../Evolent.Persistance/Evolent.Persistance.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8268,8 +8268,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\POC Projects\\contacts-api\\Contacts.Persistance\\Evolent.Persistance.csproj": {
-              "projectPath": "C:\\POC Projects\\contacts-api\\Contacts.Persistance\\Evolent.Persistance.csproj"
+            "C:\\POC Projects\\contacts-api\\Evolent.Persistance\\Evolent.Persistance.csproj": {
+              "projectPath": "C:\\POC Projects\\contacts-api\\Evolent.Persistance\\Evolent.Persistance.csproj"
             }
           }
         }

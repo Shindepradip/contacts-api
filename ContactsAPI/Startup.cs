@@ -67,7 +67,6 @@ namespace ContactsAPI
 
             //Contact Service dependancy mapping
             services.AddSingleton<IContactService, ContactService>();
-            services.AddApplicationInsightsTelemetry();
 
         }
 

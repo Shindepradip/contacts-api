@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Contacts.Persistance\Evolent.Persistance.csproj" />
+    <ProjectReference Include="..\Evolent.Persistance\Evolent.Persistance.csproj" />
   </ItemGroup>
 
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FM077RKG3Gr4Sqtvii6hdvPk1CIr0rIH2m8cgw7BuB1k8rtEDjhWqPvkx4iDDU6nI6PB/DYvI9sa4ubIJq+jyw==",
+  "dgSpecHash": "YKRR8sYePi9/3sRhtoR+fkSX2v9ZfwP9HO7KAGJYJRMFiXOMxi5NUiCJzH8ZlG0toU3P154R+CzGy3JPpGfPdw==",
   "success": true,
   "projectFilePath": "C:\\POC Projects\\contacts-api\\ContactsAPI.Tests\\ContactsAPI.Unit.Tests.csproj",
   "expectedPackageFiles": [
