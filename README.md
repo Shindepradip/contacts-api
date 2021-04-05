@@ -1,6 +1,6 @@
 # contacts-api
 
-Solution Name - ContactsAPI.sln
+**Solution Name - ContactsAPI.sln**
 
 1. Deployed Swagger documentation - http://40.88.8.34/Swagger/index.html
 2. API URL - http://40.88.8.34/Contacts 
