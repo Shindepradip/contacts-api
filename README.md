@@ -8,7 +8,7 @@
 **Note - deployed application is only on http as of now. security can be added later**
 
 API Project name  - ContactsAPI
-Technology - ASP.Net Core API
+Technology - **ASP.Net Core API**
 
 **ContactModel**
 
